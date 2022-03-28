@@ -11,7 +11,6 @@
   inputs.src-hexclock-master.ref   = "refs/heads/master";
   inputs.src-hexclock-master.owner = "RainbowAsteroids";
   inputs.src-hexclock-master.repo  = "hexclock";
-  inputs.src-hexclock-master.dir   = "";
   inputs.src-hexclock-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
