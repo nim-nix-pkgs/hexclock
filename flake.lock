@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652792937,
-        "narHash": "sha256-Ful31I37NkR92eZqUjJrTQG5CX0rwb+XJHiRWxameIE=",
+        "lastModified": 1652798669,
+        "narHash": "sha256-I/H2j/CXYsz/huTXW7V95sn/7UCt/LZLPLjzjivqB+c=",
         "owner": "nim-nix-pkgs",
         "repo": "hexclock",
-        "rev": "196ea20fc9d97b993e868ae35a4fa29125d6239e",
+        "rev": "fd2e2c5d4ad248dc7e72868d8d8ccc20ad32ee63",
         "type": "github"
       },
       "original": {
