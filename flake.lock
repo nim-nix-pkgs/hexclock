@@ -183,11 +183,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776741,
-        "narHash": "sha256-TjaSMr/PbO4+j7nbBfXSW/8yCnSqHx7M1kiODCPijMo=",
+        "lastModified": 1669431893,
+        "narHash": "sha256-k67SgHkO9WriuQ5YNP4v6LyJhM1qARP76X+brcRSREs=",
         "owner": "nim-nix-pkgs",
         "repo": "hexclock",
-        "rev": "72b13cfcd8721d238347a5eb258b6ab9c2ab09ae",
+        "rev": "3b5506ebc99063caa65461ba22d1b3951bf185fa",
         "type": "github"
       },
       "original": {
